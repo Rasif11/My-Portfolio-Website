@@ -1,0 +1,521 @@
+{
+ "site": {
+  "name": "Md Rasif Sharker",
+  "short": "MRS",
+  "title": "Md Rasif Sharker | Digital Marketing Specialist",
+  "desc": "Data-driven digital marketing for brands, startups and small businesses: social media, Facebook, Instagram, TikTok and Google Ads.",
+  "email": "digitalmarketerrasif@gmail.com",
+  "phone": "01709933988",
+  "logo": "",
+  "favicon": "",
+  "footerDesc": "Strategic, data-driven digital marketing that turns attention into customers and supports sustainable business growth.",
+  "phone2": "01788358751",
+  "whatsapp": "01709933988",
+  "cc": "880"
+ },
+ "theme": {
+  "c1": "#7c5cff",
+  "c2": "#22d3ee",
+  "c3": "#ff5fa2",
+  "bg": "#07080f"
+ },
+ "socials": [
+  {
+   "n": "facebook",
+   "u": "https://facebook.com"
+  },
+  {
+   "n": "instagram",
+   "u": "https://instagram.com"
+  },
+  {
+   "n": "linkedin",
+   "u": "https://linkedin.com"
+  },
+  {
+   "n": "tiktok",
+   "u": "https://tiktok.com"
+  }
+ ],
+ "hero": {
+  "avail": "Available for new projects",
+  "profession": "Digital Marketing Specialist",
+  "specialities": [
+   "Social Media Marketing",
+   "Facebook Ads",
+   "TikTok Ads",
+   "Instagram Ads",
+   "Google Ads",
+   "Small Business Growth Strategy",
+   "Organic Marketing",
+   "Lead Generation"
+  ],
+  "tagline": "Turning Clicks into Customers with Data-Driven Digital Marketing",
+  "intro": "I help brands, startups, and small businesses grow through strategic digital marketing that drives visibility, engagement, and conversions. From high-performing Facebook, Instagram, and Google Ads to strategic social media management, every campaign I build is data-driven, audience-focused, and designed to maximize ROI and support sustainable business growth.",
+  "b1": {
+   "t": "View My Work",
+   "u": "work.html"
+  },
+  "b2": {
+   "t": "Hire Me",
+   "u": "contact.html"
+  },
+  "portrait": "assets/img/portrait.svg",
+  "cards": [
+   {
+    "n": "100%",
+    "l": "Data-Driven"
+   },
+   {
+    "n": "4",
+    "l": "Ad Platforms"
+   }
+  ]
+ },
+ "stats": [
+  {
+   "n": 4,
+   "p": "",
+   "s": "",
+   "l": "Ad Platforms"
+  },
+  {
+   "n": 6,
+   "p": "",
+   "s": "",
+   "l": "Core Services"
+  },
+  {
+   "n": 7,
+   "p": "",
+   "s": "",
+   "l": "Specialities"
+  },
+  {
+   "n": 100,
+   "p": "",
+   "s": "%",
+   "l": "Data-Driven Approach"
+  }
+ ],
+ "services": {
+  "eyebrow": "What I Do",
+  "title": "Services built to grow your business",
+  "items": [
+   {
+    "id": "fb",
+    "i": "target",
+    "t": "Facebook & Instagram Ads",
+    "tag": "Paid Social",
+    "d": "Create targeted ad campaigns to reach the right audience, generate leads, and increase sales.",
+    "long": "Create targeted ad campaigns to reach the right audience, generate leads, and increase sales. Campaigns are built around your goals, tested with different audiences and creatives, and refined as results come in.",
+    "inc": [
+     "Audience research and targeting",
+     "Ad creative and copy direction",
+     "Campaign setup and launch",
+     "Lead generation campaigns",
+     "A/B testing of ads",
+     "Ongoing optimization"
+    ],
+    "note": "Pricing on request"
+   },
+   {
+    "id": "google",
+    "i": "search",
+    "t": "Google Ads Management",
+    "tag": "Search Advertising",
+    "d": "Reach potential customers through strategic search advertising and performance-focused campaign optimization.",
+    "long": "Reach potential customers through strategic search advertising and performance-focused campaign optimization. Every campaign is structured around the searches that matter most to your business.",
+    "inc": [
+     "Keyword research",
+     "Search campaign setup",
+     "Ad copy writing",
+     "Bid and budget management",
+     "Conversion tracking setup",
+     "Regular performance reviews"
+    ],
+    "note": "Pricing on request"
+   },
+   {
+    "id": "social",
+    "i": "share",
+    "t": "Social Media Management",
+    "tag": "Organic Social",
+    "d": "Manage social media accounts with consistent content planning, scheduling, and audience engagement.",
+    "long": "Manage social media accounts with consistent content planning, scheduling, and audience engagement. A steady, on-brand presence keeps your audience engaged and your accounts active.",
+    "inc": [
+     "Content planning calendar",
+     "Post creation direction",
+     "Scheduling and publishing",
+     "Community engagement",
+     "Profile optimization",
+     "Performance summaries"
+    ],
+    "note": "Pricing on request"
+   },
+   {
+    "id": "growth",
+    "i": "trend",
+    "t": "Small Business Growth Strategy",
+    "tag": "Strategy",
+    "d": "Help small businesses attract customers and grow online with practical, goal-oriented marketing strategies.",
+    "long": "Help small businesses attract customers and grow online with practical, goal-oriented marketing strategies. Plans are kept simple and realistic, and shaped around your budget and goals.",
+    "inc": [
+     "Business and market review",
+     "Goal setting",
+     "Channel recommendations",
+     "Step-by-step action plan",
+     "Organic marketing guidance",
+     "Progress check-ins"
+    ],
+    "note": "Pricing on request"
+   },
+   {
+    "id": "tiktok",
+    "i": "play",
+    "t": "TikTok Marketing",
+    "tag": "Short-Form Video",
+    "d": "Grow brand awareness and reach new audiences through TikTok content strategy and marketing campaigns.",
+    "long": "Grow brand awareness and reach new audiences through TikTok content strategy and marketing campaigns. Content and campaigns are shaped to suit how people actually use the platform.",
+    "inc": [
+     "TikTok content strategy",
+     "Video concept direction",
+     "Campaign setup",
+     "Audience targeting",
+     "Trend-aware planning",
+     "Performance tracking"
+    ],
+    "note": "Pricing on request"
+   },
+   {
+    "id": "roi",
+    "i": "chart",
+    "t": "Campaign Optimization & ROI Tracking",
+    "tag": "Analytics",
+    "d": "Analyze campaign performance and optimize advertising spend to improve results and return on investment.",
+    "long": "Analyze campaign performance and optimize advertising spend to improve results and return on investment. Clear reporting shows where your budget is working hardest and what to improve next.",
+    "inc": [
+     "Campaign performance analysis",
+     "Conversion tracking review",
+     "Budget allocation review",
+     "Audience and creative insights",
+     "Clear, readable reports",
+     "Optimization recommendations"
+    ],
+    "note": "Pricing on request"
+   }
+  ]
+ },
+ "work": {
+  "eyebrow": "Featured Work",
+  "title": "Recent projects",
+  "items": [
+   {
+    "id": "w1",
+    "t": "Social Media Campaign Overview",
+    "d": "A look at a social media campaign setup, covering content planning, scheduling and audience engagement.",
+    "img": "assets/img/work-1.svg",
+    "date": "2026-09-01"
+   },
+   {
+    "id": "w2",
+    "t": "Facebook Ads Campaign Setup",
+    "d": "Campaign structure, audience targeting and budget settings for a paid Facebook and Instagram campaign.",
+    "img": "assets/img/work-2.svg",
+    "date": "2026-08-01"
+   },
+   {
+    "id": "w3",
+    "t": "Google Search Campaign",
+    "d": "A search campaign layout with ad groups, keywords and ad copy organised around customer intent.",
+    "img": "assets/img/work-3.svg",
+    "date": "2026-07-01"
+   },
+   {
+    "id": "w4",
+    "t": "Instagram Content Plan",
+    "d": "A monthly content plan mapping out posts, formats and publishing dates for an Instagram account.",
+    "img": "assets/img/work-4.svg",
+    "date": "2026-06-01"
+   },
+   {
+    "id": "w5",
+    "t": "TikTok Campaign Overview",
+    "d": "A short-form video campaign view showing content ideas, targeting and performance tracking.",
+    "img": "assets/img/work-5.svg",
+    "date": "2026-05-01"
+   },
+   {
+    "id": "w6",
+    "t": "Audience Targeting Breakdown",
+    "d": "An audience breakdown used to choose who to reach, grouped by interests, location and behaviour.",
+    "img": "assets/img/work-6.svg",
+    "date": "2026-04-01"
+   },
+   {
+    "id": "w7",
+    "t": "Performance Report View",
+    "d": "A reporting dashboard that brings campaign data together in one clear, readable view.",
+    "img": "assets/img/work-7.svg",
+    "date": "2026-03-01"
+   },
+   {
+    "id": "w8",
+    "t": "Lead Generation Funnel",
+    "d": "A funnel plan showing how an ad leads visitors to a form and then to follow-up.",
+    "img": "assets/img/work-8.svg",
+    "date": "2026-02-01"
+   },
+   {
+    "id": "w9",
+    "t": "Small Business Growth Plan",
+    "d": "A step-by-step growth plan outlining priorities, channels and next actions for a small business.",
+    "img": "assets/img/work-9.svg",
+    "date": "2026-01-01"
+   }
+  ]
+ },
+ "about": {
+  "eyebrow": "About Me",
+  "title": "Strategy first, results always",
+  "img": "assets/img/about.svg",
+  "badge": {
+   "n": "4",
+   "l": "Ad Platforms"
+  },
+  "p": [
+   "Great marketing happens where creativity meets measurement. I plan every campaign around your audience, your goals and the numbers that matter.",
+   "Whether you are launching a new brand or scaling an existing business, I build clear, practical strategies you can understand and trust."
+  ],
+  "bullets": [
+   "Data-driven campaign planning",
+   "Audience-focused creative",
+   "Clear, transparent reporting",
+   "Sustainable growth strategies"
+  ],
+  "btn": {
+   "t": "Learn More About Me",
+   "u": "about.html"
+  }
+ },
+ "tools": {
+  "eyebrow": "Tools & Expertise",
+  "title": "The toolkit behind every campaign",
+  "chips": [
+   "Meta Ads Manager",
+   "Google Ads",
+   "TikTok Ads Manager",
+   "Google Analytics",
+   "Canva",
+   "Meta Business Suite"
+  ],
+  "marquee": [
+   "Social Media Marketing",
+   "Facebook Ads",
+   "TikTok Ads",
+   "Instagram Ads",
+   "Google Ads",
+   "Small Business Growth Strategy",
+   "Organic Marketing",
+   "Lead Generation"
+  ]
+ },
+ "testi": {
+  "eyebrow": "Testimonials",
+  "title": "Kind words from clients",
+  "btn": {
+   "t": "Read All Testimonials",
+   "u": "testimonials.html"
+  },
+  "items": [
+   {
+    "q": "Working with Rasif was a refreshingly clear experience from the very first call. He took the time to understand my business before touching a single ad, explained every decision in plain language, and always answered my questions quickly. I never had to chase him for an update, and that kind of reliability is rare.",
+    "n": "Michael Carter",
+    "r": "Small Business Owner",
+    "tag": "Facebook & Instagram Ads"
+   },
+   {
+    "q": "Rasif took over my social media and made it feel effortless. The content calendar was organised, the posts matched my brand, and he handled comments and messages with real care. Even though we work in different time zones, communication was never a problem.",
+    "n": "Sarah Whitfield",
+    "r": "Boutique Owner",
+    "tag": "Social Media Management"
+   },
+   {
+    "q": "I came in knowing very little about search advertising. Rasif walked me through how everything worked without making me feel lost, and he was honest about what to expect. His reports were easy to read, and I always knew what was being done and why.",
+    "n": "Emily Harper",
+    "r": "Startup Founder",
+    "tag": "Google Ads Management"
+   },
+   {
+    "q": "What I valued most was the clarity. Rasif turned a vague idea of growing online into a simple, practical plan I could actually follow. He listened closely, asked sharp questions, and never pushed anything I didn't need.",
+    "n": "James Whitaker",
+    "r": "Business Consultant",
+    "tag": "Small Business Growth Strategy"
+   },
+   {
+    "q": "When something wasn't working, Rasif told me straight away and came back with a plan to fix it. That honesty built a lot of trust. He is organised, thoughtful and genuinely invested in doing the job properly.",
+    "n": "Daniel Brooks",
+    "r": "Online Store Owner",
+    "tag": "Campaign Optimization & ROI Tracking"
+   },
+   {
+    "q": "I was nervous about TikTok, but Rasif made it approachable. He suggested ideas that suited my business, kept me in the loop at every stage and was always open to my feedback. It felt like having a real partner.",
+    "n": "Olivia Bennett",
+    "r": "Restaurant Owner",
+    "tag": "TikTok Marketing"
+   },
+   {
+    "q": "Rasif is calm, professional and easy to talk to. Deadlines were met, messages were answered promptly, and when I changed my mind about something he adapted without any fuss. I would happily work with him again.",
+    "n": "Thomas Reynolds",
+    "r": "Fitness Studio Owner",
+    "tag": "Facebook & Instagram Ads"
+   },
+   {
+    "q": "He understood my voice and my audience quickly, and the content he planned always felt like me. I appreciated the care he put into the details, and how patiently he handled my many questions.",
+    "n": "Hannah Mitchell",
+    "r": "Online Coach",
+    "tag": "Social Media Management"
+   },
+   {
+    "q": "As someone who works in marketing myself, I'm picky about who I trust with campaigns. Rasif was methodical, transparent about his thinking and open to challenge. He documented his work clearly and made collaboration simple.",
+    "n": "Andrew Fletcher",
+    "r": "Marketing Manager",
+    "tag": "Google Ads Management"
+   },
+   {
+    "q": "Rasif made a complicated subject feel manageable. He broke the work into clear steps, checked in regularly and explained things without jargon. I felt supported the whole way through.",
+    "n": "Jessica Sullivan",
+    "r": "Small Business Owner",
+    "tag": "Small Business Growth Strategy"
+   }
+  ]
+ },
+ "cta": {
+  "title": "Ready to grow your business?",
+  "text": "Tell me about your goals and let's build a marketing plan that turns attention into customers.",
+  "btn": {
+   "t": "Start a Project",
+   "u": "contact.html"
+  }
+ },
+ "servicesPage": {
+  "title": "Services",
+  "desc": "Facebook & Instagram Ads, Google Ads, social media management, TikTok marketing, small business growth strategy and ROI tracking.",
+  "header": {
+   "eyebrow": "My Services",
+   "l1": "Marketing Services",
+   "l2": "Built for Growth",
+   "intro": "Every project starts with understanding your business, your audience and your goals. From there I plan, launch and refine each campaign in clear steps, tracking performance along the way so you always know what is working. Choose a single service or combine several into one connected plan."
+  },
+  "cta": {
+   "title": "Let's grow your business together",
+   "text": "Tell me what you want to achieve and I will recommend the services that fit your goals and budget.",
+   "btn": {
+    "t": "Get in Touch",
+    "u": "contact.html"
+   }
+  }
+ },
+ "workPage": {
+  "title": "My Work",
+  "desc": "A selection of digital marketing projects by Md Rasif Sharker: social media, Facebook, Instagram, TikTok and Google Ads.",
+  "header": {
+   "eyebrow": "My Work",
+   "l1": "A Look at",
+   "l2": "My Recent Work",
+   "intro": "A selection of campaigns and projects I have worked on. Click any screenshot to see it larger, along with a short description of what it shows."
+  },
+  "cta": {
+   "title": "Let's build your next campaign",
+   "text": "If you like what you see, tell me about your business and goals and I will suggest where to start.",
+   "btn": {
+    "t": "Start a Project",
+    "u": "contact.html"
+   },
+   "b2": {
+    "t": "View My Services",
+    "u": "services.html"
+   }
+  }
+ },
+ "aboutPage": {
+  "title": "About Me",
+  "desc": "About Md Rasif Sharker, a digital marketing specialist helping brands, startups and small businesses grow online.",
+  "header": {
+   "eyebrow": "About Me",
+   "l1": "Marketing with",
+   "l2": "a Human Touch",
+   "intro": "A little about who I am, how I think, and how I like to work with the people and businesses I help."
+  },
+  "story": {
+   "eyebrow": "My Story",
+   "lead": "I believe good marketing starts with listening, long before the first ad goes live.",
+   "paras": [
+    "I'm Md Rasif Sharker, a digital marketing specialist who helps brands, startups and small businesses grow online. My work covers social media, paid advertising on Facebook, Instagram, TikTok and Google, and the strategy that ties it all together.",
+    "I like to begin with questions. Who are you trying to reach? What do they care about? What does success look like for your business? The answers shape everything that follows, from the message to the budget.",
+    "I rely on data to guide my decisions, but I never forget that there are real people behind every click. I look at the numbers, test new ideas, keep what works and let go of what doesn't, so each campaign gets a little sharper over time.",
+    "I explain things in plain language and keep you informed at every step. My goal is simple: to build marketing that you understand, trust and can see working for your business."
+   ],
+   "img": "assets/img/portrait.svg",
+   "sigName": "Md Rasif Sharker",
+   "sigTitle": "Digital Marketing Specialist"
+  },
+  "cta": {
+   "title": "Let's start a conversation",
+   "text": "Tell me about your business and your goals, and we can work out the best next step together.",
+   "btn": {
+    "t": "Get in Touch",
+    "u": "contact.html"
+   },
+   "b2": {
+    "t": "See My Work",
+    "u": "work.html"
+   }
+  }
+ },
+ "testiPage": {
+  "title": "Testimonials",
+  "desc": "Reviews from clients about working with Md Rasif Sharker on social media, Facebook, Instagram, TikTok and Google Ads.",
+  "header": {
+   "eyebrow": "Testimonials",
+   "l1": "Kind Words from",
+   "l2": "Valued Clients",
+   "intro": "Here is what clients say about working with me, from the first conversation to the final report. Tap any review to bring it to the top of the page."
+  },
+  "cta": {
+   "title": "Ready to start working together",
+   "text": "Tell me about your business and goals, and let's talk about how I can help you grow.",
+   "btn": {
+    "t": "Get in Touch",
+    "u": "contact.html"
+   },
+   "b2": {
+    "t": "See My Work",
+    "u": "work.html"
+   }
+  }
+ },
+ "contactPage": {
+  "title": "Contact",
+  "desc": "Contact Md Rasif Sharker about Facebook & Instagram Ads, Google Ads, TikTok marketing, social media management and small business growth.",
+  "header": {
+   "eyebrow": "Contact",
+   "l1": "Let's Talk About",
+   "l2": "Your Next Project",
+   "intro": "Have a question or a project in mind? Send me a message using the form, or reach me directly by email, phone or WhatsApp. I look forward to hearing from you."
+  },
+  "form": {
+   "title": "Send Me a Message",
+   "sub": "Share a few details and I'll get back to you personally.",
+   "notSure": "Not sure yet",
+   "placeholder": "Tell me about your business, goals, challenges, or project requirements",
+   "note": "Your details stay private and are only used to reply to your message."
+  },
+  "hints": {
+   "email": "Send me a message any time",
+   "phone": "Call me to talk it through",
+   "wa": "Chat with me on WhatsApp"
+  },
+  "online": "Find Me Online"
+ }
+}

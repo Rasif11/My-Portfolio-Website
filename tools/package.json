@@ -1,0 +1,1 @@
+{"name":"rasif-portfolio-tools","private":true,"description":"Dev-only tools to rebuild the API bundle. Not needed to deploy.","scripts":{"bundle":"node bundle.js"},"devDependencies":{"esbuild":"^0.21.5","@netlify/blobs":"^8.1.0"}}
